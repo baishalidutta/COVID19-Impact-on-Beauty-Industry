@@ -9,7 +9,7 @@
 
 ## Motivation
 
-This project comprises the stock analysis of different beauty consumer companies and the impact caused on the stock data due to COVID-19 pandemic. Primarily, the stocks of the following companies have been considered for the analysis -
+This project comprises the stock analysis of different beauty consumer companies and the impact on the stock data due to COVID-19 pandemic. Primarily, the stocks of the following companies have been considered for the analysis -
 
 * M.A.C
 * Estée Lauder Companies
