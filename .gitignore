@@ -129,9 +129,7 @@ dmypy.json
 .pyre/
 
 # PyCharm
-
 .idea/
 
 # MacOS
-
 .DS_Store
